@@ -1,0 +1,9 @@
+.imgContainer::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE and Edge */
+.imgContainer {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
