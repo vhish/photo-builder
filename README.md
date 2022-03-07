@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PHOTO BUILDER APPLICATION
 
 This project allows users to approve or select their favourite photos from the unsplashed api using react and redux for state management.
@@ -30,3 +31,7 @@ Your app is ready to be deployed!
 ## App Preview
 
 ![App Preview](preview.jiff)
+=======
+# photo-builder
+A simple photo reviewing feature app.
+>>>>>>> af1fac69fd94a5fd9f6bc3e2b40323a91417662c
